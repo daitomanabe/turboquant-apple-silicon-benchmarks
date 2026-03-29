@@ -1,0 +1,5 @@
+mlx>=0.20.0
+mlx-lm>=0.20.0
+transformers
+huggingface_hub
+pyarrow
